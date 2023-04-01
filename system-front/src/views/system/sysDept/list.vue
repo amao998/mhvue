@@ -13,7 +13,7 @@
       :default-expand-all="false"
       :tree-props="{children: 'children'}">
 
-      <el-table-column prop="name" label="部门名称212121" width="160"/>
+      <el-table-column prop="name" label="部门名称ssss" width="160"/>
       <el-table-column prop="leader" label="负责人" width="160"/>
       <el-table-column prop="phone" label="电话" width="120"/>
       <el-table-column prop="sortValue" label="排序" width="60"/>
